@@ -231,4 +231,3 @@ function fnMove(oDiv,oJson,fn){
 		}
 	},30);
 }
-#{sdfsfsaafdasdfsdfdfasdf}
